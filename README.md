@@ -12,5 +12,9 @@ In this prototype, we demonstrated how the captured skeleton motions can be repl
 
 #P.S.
 Since we have been using some special equipments capturing the motions, online demonstration has not been deployed in this repository, however, the recorded data is of the equivalent value. 
-And as for the game, the key map has been changed, where 'SPACE' denotes shoot(include fake), 'K' denotes pass, 'B' denotes block and ‘Q’ denotes fancy skills. 
+And as for the game, the key map has been changed, where \n
+'SPACE' denotes shoot(include fake), \n
+'K' denotes pass, \n
+'B' denotes block and \n
+‘Q’ denotes fancy skills. \n
 This project is far from polish and yet I am making an effort to reach accomplishment.
